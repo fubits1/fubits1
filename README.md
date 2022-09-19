@@ -1,12 +1,12 @@
 <div align="left">
   <h1>Hi there 👋</h1>
-  <blockquote style="margin-bottom: 1rem"> 🔗 Portfolio: <a href="https://dadascience.design">https://dadascience.design</a>
+  <blockquote style="margin-bottom: 1rem; float: left;"> 🔗 Portfolio: <a href="https://dadascience.design">https://dadascience.design</a>
   </blockquote>
   <p style="float: right">
     <a href="https://twitter.com/fubits" target="blank">
       <img src="https://img.shields.io/twitter/follow/fubits?logo=twitter&style=for-the-badge" alt="fubits" /></a>
   </p>
-  <p align="center">
+  <p align="center" style="clear: both;">
     <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer">
       <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg" alt="11ty" width="40" height="40" />
     </a>
