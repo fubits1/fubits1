@@ -2,7 +2,7 @@
   <h1>Hi there 👋</h1>
   <blockquote style="margin-bottom: 1rem; float: left;"> 🔗 Portfolio: <a href="https://dadascience.design">https://dadascience.design</a>
   </blockquote>
-  <p style="float: right">
+  <p style="float: right;">
     <a href="https://twitter.com/fubits" target="blank">
       <img src="https://img.shields.io/twitter/follow/fubits?logo=twitter&style=for-the-badge" alt="fubits" /></a>
   </p>
