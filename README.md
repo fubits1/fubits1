@@ -40,7 +40,8 @@
   </p>
 <hr />
   <h3>🧑‍💻 Me</h3>
-  <p> I'm a polyglot freelance developer & UX|DataViz designer from Berlin, Germany. I love data pipelines, JavaScript, good UX, and storytelling with data. And strategy.</p>
+  <p> I'm a polyglot freelance developer & UX|DataViz designer from Berlin, Germany. I love data pipelines, JavaScript, good UX, and storytelling with data.</p>
+  <p>And strategy and systems thinking..</p>
   <p> My focus is on creating <a href="https://chemicalweapons.gppi.net/" target="_blank">wholesome products</a> and building <a href="https://dadascience.design/talks/data-engineering-gas/2020-correlcon-data-engineering.html#1" target="_blank">internal tooling / pipelines</a> for AND with not-for-profit organisations / NGOs in general. </p>
   <h3>⚙️ Current Stack</h3>
   <p> Currently, I'm exploring the new set of fullstack opportunities enabled by the 2022 Jamstack with awesome tools such as <a href="https://github.com/fubits1/sveltekit-supabase-endpoint" target="_blank">Supabase</a>, Prisma, <a href="https://github.com/fubits1/astro-svelte-example" target="_blank">Astro</a>, <a href="https://github.com/fubits1/alpinejs-expo" target="_blank">Alpine.js</a>, <a href="https://railway.app/" target="_blank">Railway</a>, the <a href="https://github.com/fubits1/notion-export-demo" target="_blank">Notion API</a>, and my two favourite web frameworks, <a href="https://github.com/fubits1/11ty-notion-api" target="_blank">11ty / Eleventy</a> & <a href="https://afrozensus.de/" target="_blank">SvelteKit</a>. </p>
