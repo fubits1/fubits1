@@ -46,10 +46,10 @@
   <h3>⚙️ Current Stack</h3>
   <p> Currently, I'm exploring the new set of fullstack opportunities enabled by the 2022 Jamstack with awesome tools such as <a href="https://github.com/fubits1/sveltekit-supabase-endpoint" target="_blank">Supabase</a>, Prisma, <a href="https://github.com/fubits1/astro-svelte-example" target="_blank">Astro</a>, <a href="https://github.com/fubits1/alpinejs-expo" target="_blank">Alpine.js</a>, <a href="https://railway.app/" target="_blank">Railway</a>, the <a href="https://github.com/fubits1/notion-export-demo" target="_blank">Notion API</a>, and my two favourite web frameworks, <a href="https://github.com/fubits1/11ty-notion-api" target="_blank">11ty / Eleventy</a> & <a href="https://afrozensus.de/" target="_blank">SvelteKit</a>. </p>
   <p> When I'm not building websites, I'm probably crunching data with R, <a href="https://github.com/fubits1/r-quarto-basics" target="_blank">Quarto</a>, and ggplot or D3, or am <a href="https://dadascience.design" target="_blank">making maps</a>. </p>
-  <h3>💡 Consulting</h3>
-  <p> I also consult on all things NPO tech strategy, data management, and information security. I also love to give <a href="https://dadascience.design/talks/" target="_blank">entry-level talks</a> and to run workshops on topics such as <a href="https://github.com/fubits1/rstats-etl-pipeline-101" target="_blank">DIY data engineering & CI/CD</a>. </p>
+  <h3>💡 Consulting & Workshops</h3>
+  <p> From time to time I enjoy to consult on all things NPO tech strategy, data management, and information security. I also love to give <a href="https://dadascience.design/talks/" target="_blank">entry-level talks</a> and to run workshops on topics such as <a href="https://github.com/fubits1/rstats-etl-pipeline-101" target="_blank">DIY data engineering & CI/CD</a>. I have facilitated product vision and design thinking workshops (the latter also on non-technical topics).</p>
   <h3>✍️ Blog</h3>
-  <p> I <a href="https://dadascience.design/post/" target="_blank">used to blog</a> about data science workflows with R, and will relaunch my blog when I have overhauled my portfolio website this summer (2022). </p>
+  <p> I <a href="https://dadascience.design/post/" target="_blank">used to blog</a> about data science workflows with R, and will relaunch my blog when I have overhauled my portfolio website this winter (2022/23). </p>
 </div>
 <!--
 **fubits1/fubits1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
