@@ -2,7 +2,7 @@
   <h1>Hi there 👋</h1>
   <p> 🔗 Portfolio: <a href="https://dadascience.design">https://dadascience.design</a>
   </p>
-  <p>🐘 Mastodon: <a href="https://mastodon.online/@fubits">mastodon.online/@fubits</a></p>
+  <p>🐘 Mastodon: <a rel="me" href="https://mastodon.online/@fubits">mastodon.online/@fubits</a></p>
   <p style="float: right;">
     <a href="https://twitter.com/fubits" target="blank">
       <img src="https://img.shields.io/twitter/follow/fubits?logo=twitter&style=for-the-badge" alt="fubits" /></a>
