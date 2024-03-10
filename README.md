@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Hi there 👋</h1>
-  <p> 🔗 Portfolio: <a href="https://dadascience.design">https://dadascience.design</a>
+  <p> 🔗 Portfolio: <a href="https://fubits.dev">https://fubits.dev</a>
   </p>
   <p>🐘 Mastodon: <a rel="me" href="https://mastodon.online/@fubits">mastodon.online/@fubits</a></p>
   <p style="float: right;">
