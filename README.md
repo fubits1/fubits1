@@ -36,21 +36,21 @@
 
 ### 🧑‍💻 Me
 
-My name is Ilja. I'm a polyglot freelance developer & UX|DataViz designer from Berlin, Germany. Into data, JavaScript, wholesome UX, and storytelling with data.
+I'm Ilja [Илья] - a polyglot freelance developer & UX|DataViz designer from Berlin, Germany. I'm into data, JavaScript, wholesome UX, and storytelling with data.
 
-Maybe a design engineer. Maybe a product designer. Sometimes a Tech lead. I like strategy and systems thinking...
+Maybe a design engineer. Maybe a product designer. Sometimes a Tech lead who enjoys strategy and systems thinking...
 
 ### ⚙️ Stack
 
-Svelte 4 / 5 for everyday-work.
+Svelte 5 for everyday-work.
 
-I also love working with [Supabase](https://github.com/fubits1/sveltekit-supabase-endpoint), [Astro](https://github.com/fubits1/astro-svelte-example), [SvelteKit](https://explorer.afrozensus.de/), and [Maplibre](https://maplibre.org/) with [Protomaps](https://protomaps.com/). I also self-host most of my own tooling and private projects on a VPS with [Coolify](https://coolify.io/).
+I love working with [Supabase](https://github.com/fubits1/sveltekit-supabase-endpoint), [Astro](https://github.com/fubits1/astro-svelte-example), [SvelteKit](https://explorer.afrozensus.de/), and [Maplibre](https://maplibre.org/) with [Protomaps](https://protomaps.com/). I also self-host most of my own tooling and private projects on a VPS with [Coolify](https://coolify.io/).
 
 When I'm not building websites or pipelines, I'm probably crunching data with R, [Quarto](https://github.com/fubits1/r-quarto-basics), DuckDB, and ggplot or D3, or am [making maps](https://fubits.dev).
 
 ### 💡 Consulting & Workshops
 
-From time to time I enjoy to consult on all things NPO tech strategy, data management, and information security. I also love to give [entry-level talks](https://fubits.dev/talks/) and to run workshops on topics such as [DIY data engineering & CI/CD](https://github.com/fubits1/rstats-etl-pipeline-101). I have facilitated product vision and design thinking workshops (the latter also on non-technical topics).
+From time to time I enjoy to consult on all things NGO/NPO tech & product strategy, data management, and information security. I also love to give [entry-level talks](https://fubits.dev/talks/) and to run workshops on topics such as [DIY data engineering & CI/CD](https://github.com/fubits1/rstats-etl-pipeline-101). As part of my product work, I usually also facilitate product vision and design thinking workshops (the latter also on non-technical topics).
 
 ### ✍️ Blog
 
