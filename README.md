@@ -42,7 +42,7 @@
 
 ### 🧑‍💻 Me
 
-I'm Ilja [Илья] - a polyglot freelance developer & UX|DataViz designer from Berlin, Germany. I'm into data, JavaScript, wholesome UX, and storytelling with data.
+I'm Ilja [Илья] - a polyglot freelance developer & UX|DataViz designer from Berlin, Germany. I'm into data, JavaScript, wholesome UX, and storytelling.
 
 Maybe a design engineer. Maybe a product designer. Sometimes a Tech lead who enjoys strategy and systems thinking...
 
